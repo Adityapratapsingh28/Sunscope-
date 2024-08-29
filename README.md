@@ -44,7 +44,7 @@ In today's push for sustainable development, households often struggle with high
 ## Introduction & Solution :
 ny people are unaware of how much solar energy their rooftops can generate and the potential savings from solar panels. To address this, we propose a web platform that uses machine learning to calculate solar energy potential. Users can upload satellite images of their rooftops, and our platform will use Convolutional Neural Networks (CNN) to identify building footprints and calculate areas using GeoPandas and Rasterio. By incorporating solar irradiance data, we can estimate potential energy generation and provide a financial analysis of the savings from solar panel installations. Hosted on cloud platforms like AWS, Microsoft Azure, or Google Cloud, our solution helps users understand their solar potential and encourages sustainable energy practices.
 
-Drive_Link For PPT - https://docs.google.com/presentation/d/1izR2zbyZ4Ixxhm8jWD7wf8JS_ZRDIaZg/edit?usp=sharing&ouid=107363945873830919427&rtpof=true&sd=true
+Drive_Link for PPT - https://docs.google.com/presentation/d/1izR2zbyZ4Ixxhm8jWD7wf8JS_ZRDIaZg/edit?usp=sharing&ouid=107363945873830919427&rtpof=true&sd=true
 
 
 
