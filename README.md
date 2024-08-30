@@ -36,7 +36,7 @@ RA2311003011339
 
 nk8797@srmist.edu.in
 
-## Open Enovation
+## Open Innovation
 
 ## Problem Statement : 
 In today's push for sustainable development, households often struggle with high electricity bills, especially during the summer, due to the lack of solar energy adoption. Despite the availability of advanced technologies, we are not fully utilizing solar panels to tap into renewable energy sources. By embracing solar energy, we can significantly cut down on electricity expenses and make a positive impact on the environment. This shift not only offers financial benefits but also supports global efforts toward sustainability by relying on clean, renewable energy. Investing in solar solutions can help reduce our carbon footprint and create a more eco-friendly future.
