@@ -18,19 +18,8 @@ RA2311030010178
 
 ss5819@srmist.edu.in
 
-2-Rishit Vats 
 
-RA2311030010177
-
-rv1595@srmist.edu.in
-
-3-Shantam Ranjan
-
-RA2311003011795
-
-sr0684@srmist.edu.in
-
-4-Nilesh Kanti
+2-Nilesh Kanti
 
 RA2311003011339
 
